@@ -1,0 +1,10 @@
+konyv 1 2000
+alma 2 70
+honda 3 200000
+laptop 4 150000
+zsemle 5 10.5
+tal 6 800
+matyas 7 1000
+kanape 8 84877.77
+haz 9 250000000
+pulcsi 10 12399
